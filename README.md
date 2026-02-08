@@ -25,7 +25,10 @@ the first student in the waitlist is autoomatically promoted into the enrolled l
 #### useful definitions:
 
     1. Dynamic Array - an array in which once capacity == size and space is allocated in memory by doubling the original size of the array.
+
     2. Array - linear data structure in which elements are stored in continous memory locations.
+
+    3. Amortized Analysis is a way of looking at the "average cost of an operation over a long sequence of events rather than just looking at the worst case scenario for a single event.
 
 ##### personal notes
 
