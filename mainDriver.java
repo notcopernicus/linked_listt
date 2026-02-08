@@ -10,8 +10,6 @@ public class mainDriver {
    Scanner kb = new Scanner(System.in);
 
 
-
-
    System.out.println("1) Enroll Student");
    
    System.out.println("2) Drop Student");
@@ -19,20 +17,17 @@ public class mainDriver {
    System.out.println("3) Show enrolled");
 
    System.out.println("4) Show waitlist");
-   System.out.println("5) Search by ID");
-   System.out.println("6) Bulk import from CSB");
-   System.out.println("7) Export roster");
-   System.out.println("Q) Quit");
-   System.out.println("1) Enroll Student");
-   
-   System.out.println("2) Drop Student");
 
-   System.out.println("3) Show enrolled");
-
-   System.out.println("4) Show waitlist");
    System.out.println("5) Search by ID");
+
    System.out.println("6) Bulk import from CSB");
+
+   System.out.println("5) Export roster");
+
+   System.out.println("6) Bulk import from CSB");
+
    System.out.println("7) Export roster");
+
    System.out.println("Q) Quit");
 
    

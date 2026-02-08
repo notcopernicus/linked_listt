@@ -2,5 +2,30 @@ public class ArrayDS {
     
 
     //write code to implement dynamic array here
-    
+
+    private int arr [];
+    private int count;
+
+    public ArrayDS {
+        arr = new int[size];
+    }
+
+    //write a method to addLast to the array
+
+    // write a get(i) method to get value based on index 
+
+    // write a set(i, v) method to insert a value at a certain index
+
+    // write a method to remove a value at a certain index
+
+    // write a method to find the index of an oject
+
+    // write a method to return the size of the array
+
+    // write a method to clear the array contents
+
+    /* note: t
+    - throw indexoutofbounds when invalid indices
+    - amartozed analysis for addLasr??
+    */
 }
