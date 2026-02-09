@@ -20,11 +20,9 @@ public class mainDriver {
 
    System.out.println("5) Search by ID");
 
-   System.out.println("6) Bulk import from CSB");
-
    System.out.println("5) Export roster");
 
-   System.out.println("6) Bulk import from CSB");
+   System.out.println("6) Bulk import from CSV");
 
    System.out.println("7) Export roster");
 
