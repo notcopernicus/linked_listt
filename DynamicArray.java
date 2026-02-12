@@ -1,4 +1,3 @@
-// DynamicArray.java
 public class DynamicArray<T> {
     private static final int DEFAULT_CAPACITY = 8;
     private Object[] data;

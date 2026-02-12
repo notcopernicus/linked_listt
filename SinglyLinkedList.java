@@ -1,4 +1,3 @@
-// SinglyLinkedList.java
 public class SinglyLinkedList<T> {
     private static class Node<T> {
         T value;

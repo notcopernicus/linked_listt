@@ -1,4 +1,3 @@
-// Student.java
 public final class Student {
     private final String id;
     private final String name;
